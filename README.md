@@ -1,5 +1,3 @@
-# SEO Interview Questions & Answers
-
 ## Agency Sales Coaching Landing Page Project
 
 ---
